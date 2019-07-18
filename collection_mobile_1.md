@@ -22,3 +22,13 @@ KoBoCollect is an essential tool in a SaniPath deployment. This app will be used
 1. Navigate through the form by swiping left to advance to the next question (or right to go back).
   1. Most questions are required and will not let you swipe without providing an answer.
 1. When the form is complete, it is saved to the phone but will not automatically be sent to the server. In order to send completed forms to the server, connect to Wi-Fi and select **Send Finalized Form**. Select the forms you would like to send and then click **Send Selected**.
+
+### Instructional Videos
+#### Installing KoBoCollect
+
+#### Installing KoBoCollect
+
+#### Filling out Forms
+
+#### Deleting Saved Forms
+
