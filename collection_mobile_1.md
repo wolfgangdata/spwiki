@@ -28,8 +28,11 @@ KoBoCollect is an essential tool in a SaniPath deployment. This app will be used
 [![](http://img.youtube.com/vi/u0XWXGONCfw/0.jpg)](http://www.youtube.com/watch?v=u0XWXGONCfw "")
 
 #### Downloading Forms
+[![](http://img.youtube.com/vi/espN84LiLlA/0.jpg)](http://www.youtube.com/watch?v=espN84LiLlA "")
 
 #### Filling out Forms
+[![](http://img.youtube.com/vi/kcjgm2_WmqA/0.jpg)](http://www.youtube.com/watch?v=kcjgm2_WmqA "")
 
 #### Deleting Saved Forms
+[![](http://img.youtube.com/vi/y26SAW1SatQ/0.jpg)](http://www.youtube.com/watch?v=y26SAW1SatQ "")
 
