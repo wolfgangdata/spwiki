@@ -15,7 +15,7 @@ KoBoCollect is an essential tool in a SaniPath deployment. This app will be used
 
 ### Download Forms
 1. From the main menu, select **Get Blank Form**.
-2. You should now see all SaniPath forms available for you to download. Select the appropriate forms that will be used on this device and tap “Get Selected” to download forms.
+2. You should now see all SaniPath forms available for you to download. Select the appropriate forms that will be used on this device and tap **Get Selected** to download forms.
 
 ### Collect and File Data
 1. To enter data, select **Fill Blank Form** and select the form you would like to complete.
