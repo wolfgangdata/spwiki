@@ -25,6 +25,7 @@ KoBoCollect is an essential tool in a SaniPath deployment. This app will be used
 
 ### Instructional Videos
 #### Installing KoBoCollect
+<iframe src="https://drive.google.com/file/d/0BxhHoJmr5B3zRWc1NEFONHJTYmc/preview" width="640" height="480"></iframe>
 
 #### Installing KoBoCollect
 
