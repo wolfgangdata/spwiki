@@ -10,8 +10,8 @@ These Guidelines are divided into the following five parts:
 1. Google Maps: used for spatially displaying sampling locations
 
 Websites, Materials, Resources:
-* KoBoCollect, Survey/Sampling/Lab Data Collection
-* Gmail, Email Service
-* Strava, GPS Tracking
-* ONA, ODK Form Photo Storage
-* My Maps, Customized Google Maps
+* [KoBoToolbox](https://www.kobotoolbox.org/), Survey/Sampling/Lab Data Collection
+* [Gmail](https://www.mail.google.com/), Email Service
+* [Strava](https://www.strava.com/), GPS Tracking
+* [ONA](https://www.ona.io/), ODK Form Photo Storage
+* [My Maps](https://www.google.com/maps/about/mymaps/), Customized Google Maps
